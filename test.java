@@ -1,5 +1,9 @@
 
-int a =10 ;
+class Demo
+{
+
+  int a =10 ;
+}
 
 class Test 
 {
